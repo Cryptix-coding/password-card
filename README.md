@@ -17,3 +17,6 @@ First you will be asked if you already have a password card or if you want the p
 If you don't need a password card anymore, move your already existing **password_card.txt file** into the folder with the python code, type the letter **n** into the console.  
 Now you will be asked for your "word" you have to remember to. Enter it into the console as well, but note that it only consists of capital letters.   
 Now your password will be displayed in the console.
+
+## example of a password-card
+![password-card](https://user-images.githubusercontent.com/88271311/142725656-a15f4fe9-e32a-4352-96b5-13c6efc1c6cd.png)
